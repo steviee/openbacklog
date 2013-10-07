@@ -14,12 +14,12 @@
 	<div class="row-fluid" style="padding-top:30px;">
         <div class="span3">
             <iframe class="github-btn"
-                    src="http://ghbtns.com/github-btn.html?user=ccoenraets&amp;repo=directory-backbone-bootstrap&amp;type=watch&amp;count=true"
+                    src="http://ghbtns.com/github-btn.html?user=steviee&amp;repo=openbacklog&amp;type=watch&amp;count=true"
                     allowtransparency="true" frameborder="0" scrolling="0" height="20px"></iframe>
         </div>
         <div class="span3">
             <iframe class="github-btn"
-                    src="http://ghbtns.com/github-btn.html?user=ccoenraets&amp;repo=directory-backbone-bootstrap&amp;type=fork&amp;count=true"
+                    src="http://ghbtns.com/github-btn.html?user=steviee&amp;repo=openbacklog&amp;type=fork&amp;count=true"
                     allowtransparency="true" frameborder="0" scrolling="0" height="20px"></iframe>
         </div>
         <div class="span3">

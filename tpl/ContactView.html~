@@ -3,29 +3,23 @@
 <br/>
 <div class="row-fluid">
     <div class="span4 text-center">
-        <p>Write an email<br/><a href="mailto:info@openbacklog.org">info@openpacklog.org</a></p>
+        <img src="img/icon.jpg" width="100"><br/><br/>
+        <p>Write an email<br/><a href="mailto:info@openbacklog.org">info@openbacklog.org</a></p>
         <br/>
     </div>
 
     <div class="span4 text-center">
-        <img src="twitter.jpg" width="100"><br/><br/>
+        <img src="img/twitter.jpg" width="100"><br/><br/>
         <p>Follow us on Twitter<br/>
         <a href="https://twitter.com/openbacklog">@openbacklog</a></p>
         <br/>
     </div>
 
-	<!--
-    <div class="span4 text-center">
+	<div class="span4 text-center">
         <img src="img/github.jpg" width="100"><br/><br/>
-        <p>Watch me code on GitHub<br/>
-        <a href="http://ccoenraets.org">https://github.com/ccoenraets</a></p>
+        <p>Watch us on GitHub<br/>
+        <a href="https://github.com/openbacklog">https://github.com/openbacklog</a></p>
         <br/>
     </div>
 
-    <div class="span4 text-center">
-        <img src="img/blog.jpg" width="100"><br/><br/>
-        <p>Visit my blog<br/><a href="http://ccoenraets.org">http://coenraets.org</a></p>
-        <br/>
-    </div>
-	-->
 </div>
