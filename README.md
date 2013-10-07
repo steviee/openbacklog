@@ -7,4 +7,4 @@ OpenBacklog.org is not yet officially launched and will be in development for th
 
 OpenBacklog.org is intended to provide development communities with an always-on backlog repository where teams can work on feature specifications, user stories and epics and software development projects.
 
-
+Please read the wiki on github.com for more information.
