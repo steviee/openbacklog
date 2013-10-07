@@ -1,0 +1,58 @@
+<div class="hero-unit" style="padding-bottom: 20px;">
+    <div class="row-fluid">
+        <div class="span5">
+            <img src="logo.png">&nbsp;
+        </div>
+
+        <div class="span7">
+            <h2>Welcome to OpenBacklog.org</h2>
+            <p>OpenBacklog.org is currently under active development and will be available later this fall.</p>
+			<p>It aims to be THE platform for open and free feature planning sessions up to whole project planning.</p>
+        </div>
+    </div>
+
+	<div class="row-fluid" style="padding-top:30px;">
+        <div class="span3">
+            <iframe class="github-btn"
+                    src="http://ghbtns.com/github-btn.html?user=ccoenraets&amp;repo=directory-backbone-bootstrap&amp;type=watch&amp;count=true"
+                    allowtransparency="true" frameborder="0" scrolling="0" height="20px"></iframe>
+        </div>
+        <div class="span3">
+            <iframe class="github-btn"
+                    src="http://ghbtns.com/github-btn.html?user=ccoenraets&amp;repo=directory-backbone-bootstrap&amp;type=fork&amp;count=true"
+                    allowtransparency="true" frameborder="0" scrolling="0" height="20px"></iframe>
+        </div>
+        <div class="span3">
+            <iframe allowtransparency="true" frameborder="0" scrolling="no"
+                    src="http://platform.twitter.com/widgets/tweet_button.1359159993.html#_=1360071947974&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;
+                    original_referer=http%3A%2F%2Fwww.openbacklog.org%2F&amp;size=m&amp;text=Look and this &amp;url=http%3A%2F%2Fwww.openbacklog.org%2F&amp;via=openbacklog"
+                    class="twitter-share-button twitter-count-horizontal" style="height: 20px;"
+                    title="Twitter Tweet Button" data-twttr-rendered="true"></iframe>
+
+        </div>
+        <div class="span3">
+            <iframe allowtransparency="true" frameborder="0" scrolling="no"
+                    src="http://platform.twitter.com/widgets/follow_button.1359159993.html#_=1360071947985&amp;id=twitter-widget-1&amp;lang=en&amp;screen_name=openbacklog&amp;show_count=true&amp;show_screen_name=true&amp;size=m"
+                    class="twitter-follow-button twitter-follow-button" style="height: 20px;"
+                    title="Twitter Follow Button" data-twttr-rendered="true"></iframe>
+        </div>
+    </div>
+</div>
+
+
+<div class="row-fluid">
+    <div class="span4">
+        <h2>What it's about?</h2>
+
+        <p>With OpenBacklog.org you can coordinate project development in an open manner: Create features with transparent discussion boards and involve your users and customers in the development process of the software they use and love.</p>
+        <p>Manage your backlog and change priorities of user-stories and epics, let your users and developers vote on functionality and priorities.</p>
+    </div>
+    <div class="span4">
+        <h2>Get the Code</h2>
+        <p>The day OpenBacklog.org launches to the public the source will be publicly available for you to fork on <a href="http://github.com">github.com</a></p>.
+    </div>
+    <div class="span4">
+        <h2>Take part</h2>
+        <p>OpenBacklog.org will be one of the project backlogs hosted here for everyone to participate and shape the future-features of this site. Stay tuned!<p>
+    </div>
+</div>
