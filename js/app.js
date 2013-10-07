@@ -33,9 +33,9 @@ backlog.Router = Backbone.Router.extend({
 
     initialize: function () {
         backlog.shellView = new backlog.ShellView();
-        $('body').html(backlog.shellView.render().el);
+        $("#appbody").html(backlog.shellView.render().el);
         // Close the search dropdown on click anywhere in the UI
-        $('body').click(function () {
+        $("#appbody").click(function () {
             $('.dropdown').removeClass("open");
         });
         this.$content = $("#content");

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+	<meta charset="utf-8">
 	<link rel="SHORTCUT ICON" href="favicon.png"/>
     <title>OpenBacklog.org</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +12,34 @@
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
 
-	<link rel="stylesheet" href="css/main.css" >
+	<link rel="stylesheet" href="css/main.css">
+    <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="../../assets/js/html5shiv.js"></script>
       <script src="../../assets/js/respond.min.js"></script>
     <![endif]-->
 
-	<!-- font -->
-	<script src="http://use.edgefonts.net/source-sans-pro.js"></script>
-  </head>
-  <body>	
-	<div class="container">
-	    <div class="row-fluid">
-        	<div id="content" class="span12>"></div>
-    	</div>
+    </head>
+    <body>	
+<div id="wrap">
+	<div id="appbody">
+		<div class="container">
+	    	<div class="row-fluid">
+	        	<div id="content" class="span12>"></div>
+	    	</div>
+		</div>
 	</div>
+	<div id="push"></div>
+</div>
+
+<div id="footer">
+	<div class="container">
+        <p class="muted credit">&copy; OpenBacklog.org 2013.</p>
+	</div>
+</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -41,19 +54,20 @@
 	<script src="js/views/home.js"></script>
 	<script src="js/views/contact.js"></script>
 
-<script type="text/javascript">
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-44694097-1']);
+	  _gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-44694097-1']);
-  _gaq.push(['_trackPageview']);
+	  (function() {
+    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  	})();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+	</script>
+	<!-- font -->
+	<script src="http://use.edgefonts.net/source-sans-pro.js"></script>
 
   </body>
 </html>
